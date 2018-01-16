@@ -114,7 +114,7 @@ description:了解如何以最简便的方式为您的网站添加视频，并�
 
 
 
-注意：除 iOS 之外的大多数平台都支持 Media Fragments API。此外，确保服务器支持 Range Requests。默认情况下，多数服务器中的 Range Requests 处于启用状态，不过，有些托管服务可能会将其停用。
+Caution: 除 iOS 之外的大多数平台都支持 Media Fragments API。此外，确保服务器支持 Range Requests。默认情况下，多数服务器中的 Range Requests 处于启用状态，不过，有些托管服务可能会将其停用。
 
 使用浏览器开发者工具检查响应标头中的 `Accept-Ranges: bytes`：
 
@@ -310,7 +310,7 @@ description:了解如何以最简便的方式为您的网站添加视频，并�
 
 
 
-注意：请勿强制调整元素尺寸，否则会使宽高比异于原始视频。挤压或拉伸都会造成较差的视觉效果。
+Caution: 请勿强制调整元素尺寸，否则会使宽高比异于原始视频。挤压或拉伸都会造成较差的视觉效果。
 
 **CSS**：
 
